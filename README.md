@@ -2,7 +2,7 @@
 
 A ROS 2 Humble simulation project of a differential-drive robot that detects table edges / cliff-like drops and avoids driving off them using a forward-facing (tilted) LiDAR concept in Gazebo, visualized in RViz.  
 This workspace is organized into separate packages for description, control, bringup, and the Python behavior node.  
-Project inspiration/tutorial: https://github.com/MechaMind-Labs/Edge_Avoiding_Robot (original reference).  
+ 
 
 ---
 
